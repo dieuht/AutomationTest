@@ -11,7 +11,7 @@ public class Variable1 {
       String _123 = "";
       System.out.println(email);
         System.out.println(old);
-
+        System.out.println(email);
 
     }
 }
